@@ -1,1 +1,1 @@
-# A pubblic repository for shared ressources
+# A public repository for shared ressources
